@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Leela Devi 👋
 
-<!--
-**leela-29/leela-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year MSc Computer Science student preparing for a career in software development. I enjoy building projects, learning new technologies, and turning ideas into useful products.
 
-Here are some ideas to get you started:
+## Featured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Shark Arena](https://github.com/leela-29/shark-arena)** — An AI investor panel that helps founders improve their startup pitches.
+- **[Nexus OS](https://github.com/leela-29/Nexus-OS)** — [Add a short explanation of what this project does.]
+- **[Pitch AI Shark Tank](https://github.com/leela-29/pitch-ai-shark-tank)** — [Add a short explanation of what this project does.]
+
+## A little more about me
+
+- 🎓 Final-year MSc Computer Science student
+- 💻 Seeking software development opportunities
+- 📷 I also enjoy photography
+
+## Find me
+
+- GitHub: [@leela-29](https://github.com/leela-29)
